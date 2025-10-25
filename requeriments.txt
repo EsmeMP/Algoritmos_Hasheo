@@ -1,0 +1,4 @@
+# hashlib (builtin) cubre: sha1, sha224, sha256, sha384, sha512, sha3_224, sha3_256, sha3_384, sha3_512, blake2b, blake2s
+blake3==1.0.8
+rich==13.4.0
+
